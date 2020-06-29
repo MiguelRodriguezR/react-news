@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.card-content{
+  height: 300px !important;
+  padding: 10px;
+  overflow: hidden;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
